@@ -82,4 +82,4 @@ production:
   <<: *default
   database: sda_production
   username: sda
-  password: <%= ENV['SDA_DATABASE_PASSWORD'] %>
+  password: napo1111
